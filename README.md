@@ -39,9 +39,11 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-10-16 at 20 54 50_90960922](https://github.com/user-attachments/assets/68b57d55-e536-4af5-99ea-54a891608472)
 
 CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-10-16 at 20 54 51_4f77e837](https://github.com/user-attachments/assets/11f3fb4d-c74b-4598-b474-a3889e97604c)
 
 a.   KVL:
  
